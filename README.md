@@ -1,5 +1,5 @@
-[![License](https://img.shields.io/badge/license-AGPL--3.0-00FF00?style=flat-square)](LICENSE) [![Website](https://img.shields.io/badge/website-HALLIZAR-00FF00?style=flat-square)](https://hallizar.ru)
 ![](images/icon.png)
+[![License](https://img.shields.io/badge/license-AGPL--3.0-00FF00?style=flat-square)](LICENSE) [![Website](https://img.shields.io/badge/website-HALLIZAR-00FF00?style=flat-square)](https://hallizar.ru)
 # HALLIZAR.GIF — Batch Animated GIF Generator for Figma
 ![info.UI/UX](images/1.jpg)
 ![info.UI/UX](images/2.jpg)
